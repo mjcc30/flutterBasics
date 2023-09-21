@@ -1,0 +1,8 @@
+{
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+    "recommendations": [
+        "diemasmichiels.emulate",
+        "dart-code.dart-code",
+        "dart-code.flutter"
+    ]
+  }
